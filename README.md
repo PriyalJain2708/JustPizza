@@ -1,0 +1,2 @@
+# JustPizza
+We have created a Pizza Website the front-end is made in React.js and the backend is made in ASP.NET using Web Api and it is connected to database Using SSMS (Sql Server Management Studio) and Ado.net. In this website you will see these basic 4 core components. 1) Creating Static Components. 2) Passing Information to Components 3) Setting the State of Just Pizza Components 4) Interacting with the Web API
